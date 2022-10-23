@@ -1,0 +1,15 @@
+C:\Users\antek\Desktop\karta pracy 2a\bin\Debug\net6.0\karta pracy 2a.exe
+C:\Users\antek\Desktop\karta pracy 2a\bin\Debug\net6.0\karta pracy 2a.deps.json
+C:\Users\antek\Desktop\karta pracy 2a\bin\Debug\net6.0\karta pracy 2a.runtimeconfig.json
+C:\Users\antek\Desktop\karta pracy 2a\bin\Debug\net6.0\karta pracy 2a.dll
+C:\Users\antek\Desktop\karta pracy 2a\bin\Debug\net6.0\ref\karta pracy 2a.dll
+C:\Users\antek\Desktop\karta pracy 2a\bin\Debug\net6.0\karta pracy 2a.pdb
+C:\Users\antek\Desktop\karta pracy 2a\obj\Debug\net6.0\karta pracy 2a.csproj.AssemblyReference.cache
+C:\Users\antek\Desktop\karta pracy 2a\obj\Debug\net6.0\karta pracy 2a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antek\Desktop\karta pracy 2a\obj\Debug\net6.0\karta pracy 2a.AssemblyInfoInputs.cache
+C:\Users\antek\Desktop\karta pracy 2a\obj\Debug\net6.0\karta pracy 2a.AssemblyInfo.cs
+C:\Users\antek\Desktop\karta pracy 2a\obj\Debug\net6.0\karta pracy 2a.csproj.CoreCompileInputs.cache
+C:\Users\antek\Desktop\karta pracy 2a\obj\Debug\net6.0\karta pracy 2a.dll
+C:\Users\antek\Desktop\karta pracy 2a\obj\Debug\net6.0\ref\karta pracy 2a.dll
+C:\Users\antek\Desktop\karta pracy 2a\obj\Debug\net6.0\karta pracy 2a.pdb
+C:\Users\antek\Desktop\karta pracy 2a\obj\Debug\net6.0\karta pracy 2a.genruntimeconfig.cache
