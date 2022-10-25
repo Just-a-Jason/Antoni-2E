@@ -1,0 +1,15 @@
+C:\Users\antek\Desktop\karta pracy 3b\bin\Debug\net6.0\karta pracy 3b.exe
+C:\Users\antek\Desktop\karta pracy 3b\bin\Debug\net6.0\karta pracy 3b.deps.json
+C:\Users\antek\Desktop\karta pracy 3b\bin\Debug\net6.0\karta pracy 3b.runtimeconfig.json
+C:\Users\antek\Desktop\karta pracy 3b\bin\Debug\net6.0\karta pracy 3b.dll
+C:\Users\antek\Desktop\karta pracy 3b\bin\Debug\net6.0\ref\karta pracy 3b.dll
+C:\Users\antek\Desktop\karta pracy 3b\bin\Debug\net6.0\karta pracy 3b.pdb
+C:\Users\antek\Desktop\karta pracy 3b\obj\Debug\net6.0\karta pracy 3b.csproj.AssemblyReference.cache
+C:\Users\antek\Desktop\karta pracy 3b\obj\Debug\net6.0\karta pracy 3b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antek\Desktop\karta pracy 3b\obj\Debug\net6.0\karta pracy 3b.AssemblyInfoInputs.cache
+C:\Users\antek\Desktop\karta pracy 3b\obj\Debug\net6.0\karta pracy 3b.AssemblyInfo.cs
+C:\Users\antek\Desktop\karta pracy 3b\obj\Debug\net6.0\karta pracy 3b.csproj.CoreCompileInputs.cache
+C:\Users\antek\Desktop\karta pracy 3b\obj\Debug\net6.0\karta pracy 3b.dll
+C:\Users\antek\Desktop\karta pracy 3b\obj\Debug\net6.0\ref\karta pracy 3b.dll
+C:\Users\antek\Desktop\karta pracy 3b\obj\Debug\net6.0\karta pracy 3b.pdb
+C:\Users\antek\Desktop\karta pracy 3b\obj\Debug\net6.0\karta pracy 3b.genruntimeconfig.cache
