@@ -1,12 +1,10 @@
-﻿class Program
-{
-    static void Main()
-    {
+﻿class Program {
+    static void Main() {
         Bajtożabka();
         Domek();
         LiczbyFajowe();
     }
-
+    #region inputs
     static int Input(string text)
     {
         Console.Write(text);
@@ -14,7 +12,8 @@
         Console.Clear();
         return x;
     }
-
+    #endregion inputs
+    #region FajoweLiczby
     static void LiczbyFajowe()
     {
         for (int i = 1000; i <= 9999; i++)
@@ -51,6 +50,8 @@
         }
 
     }
+    #endregion FajoweLiczby
+    #region Bajtożabka
     static void Bajtożabka()
     {
         int poczatek, koniec, skok;
@@ -74,7 +75,8 @@
         int skoki = (koniec - poczatek) / 5;
         Console.WriteLine($"TAK, {skoki}");
     }
-
+    #endregion Bajtożabka
+    #region Domek
     static void Domek()
     {
         int n = Input("Podaj n: ");
@@ -129,5 +131,6 @@
             }
             Console.WriteLine();
         }
-    } 
+    }
+    #endregion Domek
 }
