@@ -1,0 +1,15 @@
+C:\Users\antek\source\repos\Bajtożabka\Bajtożabka\bin\Debug\net6.0\Bajtożabka.exe
+C:\Users\antek\source\repos\Bajtożabka\Bajtożabka\bin\Debug\net6.0\Bajtożabka.deps.json
+C:\Users\antek\source\repos\Bajtożabka\Bajtożabka\bin\Debug\net6.0\Bajtożabka.runtimeconfig.json
+C:\Users\antek\source\repos\Bajtożabka\Bajtożabka\bin\Debug\net6.0\Bajtożabka.dll
+C:\Users\antek\source\repos\Bajtożabka\Bajtożabka\bin\Debug\net6.0\ref\Bajtożabka.dll
+C:\Users\antek\source\repos\Bajtożabka\Bajtożabka\bin\Debug\net6.0\Bajtożabka.pdb
+C:\Users\antek\source\repos\Bajtożabka\Bajtożabka\obj\Debug\net6.0\Bajtożabka.csproj.AssemblyReference.cache
+C:\Users\antek\source\repos\Bajtożabka\Bajtożabka\obj\Debug\net6.0\Bajtożabka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antek\source\repos\Bajtożabka\Bajtożabka\obj\Debug\net6.0\Bajtożabka.AssemblyInfoInputs.cache
+C:\Users\antek\source\repos\Bajtożabka\Bajtożabka\obj\Debug\net6.0\Bajtożabka.AssemblyInfo.cs
+C:\Users\antek\source\repos\Bajtożabka\Bajtożabka\obj\Debug\net6.0\Bajtożabka.csproj.CoreCompileInputs.cache
+C:\Users\antek\source\repos\Bajtożabka\Bajtożabka\obj\Debug\net6.0\Bajtożabka.dll
+C:\Users\antek\source\repos\Bajtożabka\Bajtożabka\obj\Debug\net6.0\ref\Bajtożabka.dll
+C:\Users\antek\source\repos\Bajtożabka\Bajtożabka\obj\Debug\net6.0\Bajtożabka.pdb
+C:\Users\antek\source\repos\Bajtożabka\Bajtożabka\obj\Debug\net6.0\Bajtożabka.genruntimeconfig.cache
