@@ -4,9 +4,9 @@ class Program
 {
     static void Main()
     {
-        Produkt produkt = new Produkt("Kanapka z serem.", "Zajebiście smaczna.", 2.50);
+        Produkt produkt = new Produkt("Kanapka z serem.", "smaczna.", 2.50);
         Profil profil = new Profil("Peater", "Justin", "Löwenbräu Griffin Sr.");
-        Uzytkownik uzytkownik = new Uzytkownik("Nigger Destroyer 2069", "NiggaBalls2013", profil);
+        Uzytkownik uzytkownik = new Uzytkownik("Antoni 2069", "Brak", profil);
         Koszyk koszyk = new Koszyk(uzytkownik, produkt, 2727928);
         Console.ReadKey();
     }
