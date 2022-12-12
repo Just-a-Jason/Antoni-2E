@@ -4,8 +4,8 @@ class Program
 {
     static void Main()
     {
-        Producent producent = new Producent("NiggaHaters", "PL1234567895");
-        Material material = new Material(200,"NiggerBike", 92782);
+        Producent producent = new Producent("Idk", "PL1234567895");
+        Material material = new Material(200,"Idk", 92782);
         Rower rower = new Rower(producent, material, "Biały");
 
         Console.ReadKey();
